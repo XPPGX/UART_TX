@@ -15,5 +15,5 @@
     - Log text
     <br> ![1](./文字結果.jpg)
 
-    - The result of wave graph
+    - The result of waveform graph
     <br> ![1](./波形圖.jpg)
